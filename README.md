@@ -1,0 +1,2 @@
+# tradingview_strategies
+Youtube/Bilibili频道中分享的一些交易策略都会放在这里
